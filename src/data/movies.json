@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "name": "Inception",
+        "director": "Christopher Nolan",
+        "year": 2010,
+        "synopsis": "Un ladrón que roba secretos corporativos a través del uso de la tecnología para compartir sueños.",
+        "duration": "148 min",
+        "image": "https://m.media-amazon.com/images/I/912AErFSBHL._AC_UF894,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/embed/RV9L7ui9Cn8?si=CMbsLOLNL-AhClkx",
+        "category": "Sci-Fi",
+        "language": "English",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "clicks": 1
+    },
+    {
+        "id": 2,
+        "name": "The Matrix",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "year": 1999,
+        "synopsis": "Un hacker de computadoras aprende de misteriosos rebeldes sobre la verdadera naturaleza de su realidad.",
+        "duration": "136 min",
+        "image": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+        "trailer": "https://www.youtube.com/embed/Pl_H2Lmjn6k?si=aUkKVQmjJ4IqQFgT",
+        "category": "Action",
+        "language": "English",
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "clicks": 2
+    },
+    {
+        "id": 3,
+        "name": "Fight Club",
+        "director": "David Fincher",
+        "year": 1999,
+        "synopsis": "Un trabajador de oficina insomne y un fabricante de jabón despreocupado forman un club de lucha clandestino.",
+        "duration": "139 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/qtRKdVHc-cE",
+        "category": "Drama",
+        "language": "English",
+        "actors": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter"
+        ],
+        "clicks": 0
+    },
+    {
+        "id": 4,
+        "name": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "synopsis": "Cuando la amenaza conocida como el Joker emerge de su pasado, él y Batman deben enfrentar un nuevo desafío.",
+        "duration": "152 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
+        "category": "Action",
+        "language": "English",
+        "actors": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "clicks": 0
+    },
+    {
+        "id": 5,
+        "name": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": 2014,
+        "synopsis": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
+        "duration": "169 min",
+        "image": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_UF894,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+        "category": "Sci-Fi",
+        "language": "English",
+        "actors": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "clicks": 6
+    },
+    {
+        "id": 6,
+        "name": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "year": 1994,
+        "synopsis": "Las vidas de dos sicarios, un boxeador, la esposa de un gángster y dos bandidos se entrelazan en cuatro relatos de violencia y redención.",
+        "duration": "154 min",
+        "image": "https://m.media-amazon.com/images/I/81UTs3sC5hL._AC_UF894,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/embed/s7EdQ4FqbhY",
+        "category": "Crime",
+        "language": "English",
+        "actors": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ],
+        "clicks": 5
+    },
+    {
+        "id": 7,
+        "name": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "synopsis": "El envejecido patriarca de una dinastía del crimen organizado transfiere el control de su clandestino imperio a su reacio hijo.",
+        "duration": "175 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/sY1S34973zA",
+        "category": "Crime",
+        "language": "English",
+        "actors": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "clicks": 38
+    },
+    {
+        "id": 8,
+        "name": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "year": 1994,
+        "synopsis": "Dos hombres encarcelados se unen durante un período de varios años, encontrando consuelo y, eventualmente, redención a través de actos de decencia común.",
+        "duration": "142 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/NmzuHjWmXOc",
+        "category": "Drama",
+        "language": "English",
+        "actors": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "clicks": 2
+    },
+    {
+        "id": 9,
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "director": "Peter Jackson",
+        "year": 2001,
+        "synopsis": "Un hobbit de la Comarca y ocho compañeros se embarcan en un viaje para destruir el poderoso Anillo Único y salvar la Tierra Media del Señor Oscuro Sauron.",
+        "duration": "178 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/V75dMMIW2B4",
+        "category": "Fantasy",
+        "language": "English",
+        "actors": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ],
+        "clicks": 19
+    },
+    {
+        "id": 10,
+        "name": "The Good, the Bad and the Ugly",
+        "director": "Sergio Leone",
+        "year": 1966,
+        "synopsis": "Un cazarrecompensas se une a dos hombres para encontrar una fortuna en oro enterrado en un cementerio remoto.",
+        "duration": "178 min",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Good_the_bad_and_the_ugly_poster.jpg",
+        "trailer": "https://www.youtube.com/embed/WCN5JJY_wiA",
+        "category": "Western",
+        "language": "English",
+        "actors": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef"
+        ],
+        "clicks": 30
+    },
+    {
+        "id": 11,
+        "name": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "year": 1994,
+        "synopsis": "La presidencia de Kennedy y Johnson, los eventos de Vietnam, Watergate y otros eventos históricos se desarrollan desde la perspectiva de un hombre con un CI bajo.",
+        "duration": "142 min",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2d0c9e38968936e6711c7fb2bc7895b82d8bb9178b5a854e14dffa4b17b88487.jpg",
+        "trailer": "https://www.youtube.com/embed/bLvqoHBptjg",
+        "category": "Drama",
+        "language": "English",
+        "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "clicks": 0
+    },
+    {
+        "id": 12,
+        "name": "Star Wars: Episode IV - A New Hope",
+        "director": "George Lucas",
+        "year": 1977,
+        "synopsis": "Luke Skywalker une fuerzas con un caballero Jedi, un piloto arrogante, un wookiee y dos droides para salvar la galaxia del arma estelar del Imperio, mientras intenta rescatar a la princesa Leia del siniestro Darth Vader.",
+        "duration": "121 min",
+        "image": "https://m.media-amazon.com/images/I/612h-jwI+EL._AC_UF1000,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/embed/vZ734NWnAHA",
+        "category": "Sci-Fi",
+        "language": "English",
+        "actors": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
+        "clicks": 0
+    },
+    {
+        "id": 13,
+        "name": "The Silence of the Lambs",
+        "director": "Jonathan Demme",
+        "year": 1991,
+        "synopsis": "Una joven agente del FBI debe recibir la ayuda de un asesino caníbal encarcelado para ayudar a atrapar a otro asesino en serie, un loco que desolla a sus víctimas.",
+        "duration": "118 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "trailer": "https://www.youtube.com/embed/W6Mm8Sbe__o",
+        "category": "Thriller",
+        "language": "English",
+        "actors": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
+        "clicks": 0
+    },
+    {
+        "id": 14,
+        "name": "Saving Private Ryan",
+        "director": "Steven Spielberg",
+        "year": 1998,
+        "synopsis": "Después de la invasión de Normandía, un grupo de soldados estadounidenses va detrás de las líneas enemigas para recuperar a un paracaidista cuyo hermanos han sido asesinados en acción.",
+        "duration": "169 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/ryyN5j-KK1U",
+        "category": "War",
+        "language": "English",
+        "actors": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+        "clicks": 0
+    },
+    {
+        "id": 15,
+        "name": "The Green Mile",
+        "director": "Frank Darabont",
+        "year": 1999,
+        "synopsis": "La vida de los guardias en el corredor de la muerte se ve afectada por uno de sus cargos: un hombre negro acusado de asesinato infantil y violación, pero que tiene un don misterioso.",
+        "duration": "189 min",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/embed/Ki4haFrqSrw",
+        "category": "Drama",
+        "language": "English",
+        "actors": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+        "clicks": 0
+    }
+]

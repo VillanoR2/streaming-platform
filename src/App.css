@@ -1,0 +1,164 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #141414;
+    color: #ffffff;
+  }
+  
+  .app {
+    text-align: center;
+    background-color: #141414;
+    color: #ffffff;
+  }
+  
+  .navbar {
+    background-color: #0f0f0f;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .navbar__link {
+    color: #ffffff;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  .navbar__link:hover {
+    text-decoration: underline;
+  }
+  
+  .footer {
+    background-color: #0f0f0f;
+    padding: 1rem;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem 0;
+  }
+  
+  .movie-card {
+    background-color: #1e1e1e;
+    border: none;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+  }
+  
+  .movie-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .movie-card__image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .movie-card__title {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+    color: #ffffff;
+  }
+  
+  .movie-card__synopsis {
+    font-size: 0.9rem;
+    margin: 0.5rem 0;
+    color: #b0b0b0;
+  }
+  
+  .movie-card__link,
+  .movie-card__trailer {
+    display: block;
+    margin: 0.5rem 0;
+    color: #00a8ff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .movie-card__link:hover,
+  .movie-card__trailer:hover {
+    text-decoration: underline;
+  }
+  
+  .search-bar {
+    margin: 2rem 0;
+  }
+  
+  .search-bar__input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #333;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  .search-bar__button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    margin-left: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #00a8ff;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .search-bar__button:hover {
+    background-color: #0080cc;
+  }
+  
+  .home-page,
+  .movie-page,
+  .rent-page,
+  .buy-page {
+    padding: 2rem;
+  }
+  
+  .movie-page__image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .movie-page__title {
+    font-size: 2rem;
+    margin: 1rem 0;
+    color: #ffffff;
+  }
+  
+  .movie-page__synopsis {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+    color: #b0b0b0;
+  }
+  
+  .movie-page__trailer {
+    color: #00a8ff;
+    font-weight: bold;
+  }
+  
+  .movie-page__trailer:hover {
+    text-decoration: underline;
+  }
+  
