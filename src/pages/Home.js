@@ -1,7 +1,9 @@
+// src/pages/HomePage.js
 import React, { useState, useEffect } from 'react';
 import SearchBar from '../components/SearchBar';
 import MovieList from '../components/MovieList';
 import useFetchMovies from '../hooks/useFetchMovies';
+import '../App.css';
 
 function Home() {
   const movies = useFetchMovies();

@@ -1,12 +1,11 @@
-// src/App.js
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Home from './pages/Home';
-import Movie from './pages/Movie';
-import RentPage from './pages/RentPage';
-import BuyPage from './pages/BuyPage';
+import HomePage from './pages/Home';
+import MoviePage from './pages/Movie';
+import UnavailablePage from './pages/UnavailablePage';
+import LoginPage from './pages/LoginPage';
 import './App.css';
 
 function App() {
@@ -15,10 +14,11 @@ function App() {
       <div className="app">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/movie/:id" element={<Movie/>} />
-          <Route path="/rent" element={<RentPage />} />
-          <Route path="/buy" element={<BuyPage />} />
+          <Route path="/" element={<HomePage />} />
+          <Route path="/movie/:id" element={<MoviePage />} />
+          <Route path="/rent" element={<UnavailablePage />} />
+          <Route path="/buy" element={<UnavailablePage />} />
+          <Route path="/login" element={<LoginPage />} />
         </Routes>
         <Footer />
       </div>
